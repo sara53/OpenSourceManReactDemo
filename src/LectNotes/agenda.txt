@@ -1,0 +1,15 @@
+-- Css Modules (search)
+
+1- install nodeJS
+2- npx create-react-app projectName
+3- npm start
+
+-- to install bootstrap
+npm i bootstrap
+
+--- react-bootstrap
+npm i react-bootstrap
+
+
+// to install more than one lib in the same command
+npm i bootstrap react-bootstrap

@@ -1,0 +1,12 @@
+.content {
+	background-color: #ccc;
+	padding: 20px;
+	border: 2px solid red;
+	margin: 30px;
+}
+
+footer {
+	background-color: #000;
+	color: #fff;
+	padding: 20px;
+}
